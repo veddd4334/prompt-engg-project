@@ -122,4 +122,4 @@ with st.expander("How to use this tool"):
 
 # Footer
 st.markdown("---")
-st.markdown("<div style='text-align: center;'>Made by Dhruv Mutha</div>", unsafe_allow_html=True)
+st.markdown("<div style='text-align: center;'>Made by Ved Deshpande</div>", unsafe_allow_html=True)
